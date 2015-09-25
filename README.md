@@ -31,6 +31,5 @@ Notes: Animating the photo tiles to move with scrolling was very tricky. I got i
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](https://cloud.githubusercontent.com/assets/1372815/9969374/029993f6-5e03-11e5-9508-0bd5550e8d78.gif)
-
+![video](https://cloud.githubusercontent.com/assets/1372815/10106748/5bdbcfac-636b-11e5-8ccd-8953a0a6dda2.gif)
 
